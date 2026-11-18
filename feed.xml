@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <channel>
+  <title>PUNTO CIEGO</title>
+  <link>https://pastelitob280-art.github.io/punto-ciego/</link>
+  <description>Ideas, preguntas y reflexiones para mirar otra vez.</description>
+  <language>es-MX</language>
+  <atom:link href="https://pastelitob280-art.github.io/punto-ciego/feed.xml" rel="self" type="application/rss+xml" />
+  <item>
+   <title>Amar también cuando llueve</title>
+   <link>https://pastelitob280-art.github.io/punto-ciego/articulo-amar-tambien-cuando-llueve.html</link>
+   <guid isPermaLink="true">https://pastelitob280-art.github.io/punto-ciego/articulo-amar-tambien-cuando-llueve.html</guid>
+   <description><![CDATA[Una reflexión sobre lo que significa amar más allá de lo bonito.]]></description>
+   <dc:date>2026-11-18</dc:date>
+  </item>
+ </channel>
+</rss>
